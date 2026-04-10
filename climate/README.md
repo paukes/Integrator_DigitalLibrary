@@ -21,19 +21,13 @@
 -   Link: <https://climate.weather.gc.ca/>
 
     -   Organization: Federal
-
     -   What it has:
-
         -   Historical weather station data
-
         -   Canadian climate normals
 
 -   Link: <https://climate-change.canada.ca/climate-data/#/>
 
     -   Organization: Federal
-
     -   What it has:
-
         -   Climate data extraction tool
-
             -   This is very handy for downloading bulk data (either climate or river flow!)

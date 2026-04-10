@@ -17,7 +17,7 @@ The general directory organization contains:
 
 <!-- -->
 
--   **Water** 💧
+-   **Hydrology - Flow**💧
     -   Surface water
         -   Alberta Government
 
@@ -26,3 +26,5 @@ The general directory organization contains:
         -   Alberta Government
 
         -   Alberta Well ID
+-   **Other ❓**
+    -   Bow River Basin
