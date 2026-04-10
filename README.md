@@ -6,26 +6,23 @@ This repository is meant to help provide quick and fast access to useful environ
 
 The general directory organization contains:
 
--   Climate 🌦️
+-   **Climate** 🌦️
 
     -   Alberta Climate Information Systems
-
     -   Environment & Climate Change Canada
 
--   Geography 🛰️
+-   **Geography and GIS** 🛰️
 
     -   ???????
 
--   Water 💧
+<!-- -->
 
+-   **Water** 💧
     -   Surface water
-
         -   Alberta Government
 
         -   Water Office
-
     -   Groundwater
-
         -   Alberta Government
 
         -   Alberta Well ID
