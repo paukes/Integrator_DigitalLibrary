@@ -9,11 +9,8 @@
     -   What it has:
 
         -   Current weather station data
-
         -   Historical weather data
-
             -   Either **Individual** or **Interpolated per Township**
-
         -   Climate normals
 
 ## ECCC - Environment and Climate Change Canada
