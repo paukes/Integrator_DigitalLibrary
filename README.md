@@ -11,10 +11,6 @@ The general directory organization contains:
     -   Alberta Climate Information Systems
     -   Environment & Climate Change Canada
 
--   **Geography and GIS** 🛰️
-
-    -   ???????
-
 -   [**Hydrology - Flow**](https://github.com/paukes/Integrator_DigitalLibrary/tree/main/hydrology)💧
 
     -   Surface water
@@ -25,6 +21,12 @@ The general directory organization contains:
 
         -   Alberta Well ID
 
+-   **Remote Sensing and GIS** 🛰️
+
+    -   ???????
+
 -   **Other ❓**
 
     -   Bow River Basin
+    -    City of Calgary
+    -   Datastream
