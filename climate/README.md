@@ -8,9 +8,9 @@
 
     -   What it has:
 
-        -   Current weather station data
-        -   Historical weather data
+        -   Long-term data
             -   Either **Individual** or **Interpolated per Township**
+        -   Current weather station data
         -   Climate normals
 
 ## ECCC - Environment and Climate Change Canada
@@ -19,12 +19,13 @@
 
     -   Organization: Federal
     -   What it has:
-        -   Historical weather station data
+        -   Long-term data
+            -   Per weather station
         -   Canadian climate normals
 
 -   Link: <https://climate-change.canada.ca/climate-data/#/>
 
     -   Organization: Federal
     -   What it has:
-        -   Climate data extraction tool
-            -   This is very handy for downloading bulk data (either climate or river flow!)
+        -   Long-term data
+            -   Climate data extraction tool (this is very handy for downloading bulk data (either climate or river flow!)

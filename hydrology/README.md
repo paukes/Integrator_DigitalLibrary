@@ -5,16 +5,11 @@
 ### Alberta River Basins
 
 -   Link: <https://rivers.alberta.ca/>
-
     -   Organization: Provincial
-
     -   What it has:
-
-        -   Annual water level and discharge
+        -   Long-term data: water level; discharge; precipitation; snow stations
 
             -   ***Note:** You are limited to one-year of observations (need to email them for longer records)*
-
-        -   Precipitation, snow stations
 
 ### Water Survey of Canada
 
@@ -24,8 +19,8 @@
 
     -   What it has:
 
+        -   Long term data: water level; discharge)
         -   Real-time hydrometric data
-        -   Historical hydrometric data
 
 ## Groundwater
 
@@ -37,7 +32,7 @@
 
     -   What it has:
 
-        -   Groundwater levels
+        -   Long-term data: groundwater level
 
 ### Alberta Water Wells
 
@@ -57,4 +52,5 @@
 
     -   What is has:
 
-        -   Groundwater levels for rural well-owners in the Rocky View County area
+        -   Long-term data: groundwater levels
+            -   Rural wells around Rocky View County area
