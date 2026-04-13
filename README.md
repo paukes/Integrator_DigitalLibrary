@@ -6,7 +6,7 @@ This repository is meant to help provide quick and fast access to useful environ
 
 The general directory organization contains:
 
--   **Climate** 🌦️
+-   [**Climate**](https://github.com/paukes/Integrator_DigitalLibrary/tree/main/climate)🌦️
 
     -   Alberta Climate Information Systems
     -   Environment & Climate Change Canada
@@ -15,16 +15,16 @@ The general directory organization contains:
 
     -   ???????
 
-<!-- -->
+-   [**Hydrology - Flow**](https://github.com/paukes/Integrator_DigitalLibrary/tree/main/hydrology)💧
 
--   **Hydrology - Flow**💧
     -   Surface water
         -   Alberta Government
-
         -   Water Office
     -   Groundwater
         -   Alberta Government
 
         -   Alberta Well ID
+
 -   **Other ❓**
+
     -   Bow River Basin
