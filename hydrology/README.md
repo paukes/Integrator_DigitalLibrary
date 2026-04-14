@@ -1,6 +1,6 @@
 # Hydrology - Resources
 
-## Surface Water
+## SURFACE WATER
 
 ### Alberta River Basins
 
@@ -14,15 +14,12 @@
 ### Water Survey of Canada
 
 -   Link: <https://wateroffice.ec.gc.ca/>
-
     -   Organization: Federal
-
     -   What it has:
-
         -   Long term data: water level; discharge
         -   Real-time hydrometric data
 
-## Groundwater
+## GROUNDWATER
 
 ### GOWN - Alberta Groundwater Observation Well Network
 
