@@ -20,7 +20,7 @@ The general directory organization contains:
         -   Alberta Government
         -   Alberta Well ID
 
--   **Remote Sensing and GIS** 🛰️ (🚧 still under construction)
+-   [**Remote Sensing and GIS**](https://github.com/paukes/Integrator_DigitalLibrary/tree/main/gis) 🛰️ (🚧 still under construction)
 
     -   Geographical Layers
         -   Bow River Basin
