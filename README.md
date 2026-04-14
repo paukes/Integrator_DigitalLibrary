@@ -1,7 +1,3 @@
----
-date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
----
-
 # The Integrator - Digital Library
 
 👋 Hello!
@@ -26,7 +22,14 @@ The general directory organization contains:
 
 -   **Remote Sensing and GIS** 🛰️ (🚧 still under construction)
 
-    -   ???????
+    -   Geographical Layers
+        -   Bow River Basin
+        -   National Hydro Network
+    -   Remote Sensing Products
+        -   Digital Elevation /Terrain Models
+        -   Alberta Biodiversity Monitoring Institute
+        -   Google Earth Engine
+        -   Copernicus Browser
 
 -   **Other ❓** (🚧 still under construction)
 
