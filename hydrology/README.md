@@ -19,7 +19,7 @@
 
     -   What it has:
 
-        -   Long term data: water level; discharge)
+        -   Long term data: water level; discharge
         -   Real-time hydrometric data
 
 ## Groundwater

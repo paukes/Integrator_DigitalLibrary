@@ -1,3 +1,7 @@
+---
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+---
+
 # The Integrator - Digital Library
 
 👋 Hello!
@@ -18,15 +22,14 @@ The general directory organization contains:
         -   Water Office
     -   Groundwater
         -   Alberta Government
-
         -   Alberta Well ID
 
--   **Remote Sensing and GIS** 🛰️
+-   **Remote Sensing and GIS** 🛰️ (🚧 still under construction)
 
     -   ???????
 
--   **Other ❓**
+-   **Other ❓** (🚧 still under construction)
 
     -   Bow River Basin
-    -    City of Calgary
+    -   City of Calgary
     -   Datastream
