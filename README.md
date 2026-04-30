@@ -31,10 +31,10 @@ The general directory organization contains:
         -   Google Earth Engine
         -   Copernicus Browser
 
--   **Software** 🖥️
+-   [**Software**](https://github.com/paukes/Integrator_DigitalLibrary/tree/main/software)🖥️
 
     -   Mapping software
-    -   Flooding/drainage modelling
+    -   Flooding & drainage modelling
 
 -   **Other ❓** (🚧 still under construction)
 
