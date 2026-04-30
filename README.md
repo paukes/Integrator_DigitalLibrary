@@ -31,6 +31,11 @@ The general directory organization contains:
         -   Google Earth Engine
         -   Copernicus Browser
 
+-   **Software** 🖥️
+
+    -   Mapping software
+    -   Flooding/drainage modelling
+
 -   **Other ❓** (🚧 still under construction)
 
     -   Bow River Basin
