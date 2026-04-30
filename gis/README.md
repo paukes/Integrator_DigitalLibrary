@@ -16,11 +16,23 @@
     -   What is has:
         -   Shapefiles for streams, creeks, lakes, etc.
 
+### CanVec Series - Lakes, River, & Glaciers
+
+-   Link: <https://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b>
+    -   Organization: Federal
+    -   What is has:
+        -   Shapefiles for watercourses and glaciers
+
 ## Remote Sensing
 
 ### Digital Elevation/Terrain Models
 
--   Something here
+#### Geospatial Data Extraction
+
+-   Link: <https://maps.canada.ca/czs/index-en.html>
+    -   Organization: Federal
+    -   What it has:
+        -   **Digital Elevation Model**, CanVec, **High Resolution DEM Mosaic**
 
 ### Alberta Biodiversity Monitoring Institute
 
