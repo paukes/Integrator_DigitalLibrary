@@ -41,3 +41,5 @@ The general directory organization contains:
     -   Bow River Basin
     -   City of Calgary
     -   Datastream
+    -   Canada Forest LiDAR Data
+    -   Canada Geological map Compilation
