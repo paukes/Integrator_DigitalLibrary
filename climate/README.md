@@ -1,4 +1,4 @@
-# Climate Data - Resources
+# CLIMATE DATA - RESOURCES
 
 ## ACIS - Alberta Climate Information Service
 
