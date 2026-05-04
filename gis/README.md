@@ -1,6 +1,6 @@
-# 🚧Remote Sensing & GIS
+# REMOTE SENSING & GIS
 
-## Geographic Layers
+## GEOGRAPHIC LAYERS
 
 ### Bow River Basin
 
@@ -20,10 +20,18 @@
 
 -   Link: <https://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b>
     -   Organization: Federal
-    -   What is has:
+    -   What it has:
         -   Shapefiles for watercourses and glaciers
 
-## Remote Sensing
+### Canada Geological Map Compilation
+
+-   Link: <https://open.canada.ca/data/en/dataset/d4f80bd3-17e3-a7e8-4bfe-d22a430678d5?hsid=8b14edf9-fd81-446c-bbc8-0d174d5c1a66>
+
+    -   Organization: Federal
+    -   What is has:
+        -   Digital bedrock geology for all of Canada
+
+## REMOTE SENSING
 
 ### Digital Elevation/Terrain Models
 
@@ -38,14 +46,14 @@
 
 -   Link: <https://abmi.ca/abmi-home/data-resources/data-portal-main.html>
     -   Organization: ???
-    -   What is has:
+    -   What it has:
         -   Various remote sensing & geospatial products (i.e. LiDAR)
 
 ### Google Earth Engine
 
 -   Link: <https://code.earthengine.google.com/>
     -   Organization: Google
-    -   What is has:
+    -   What it has:
         -   Various remote sensing products and ability to work on them
             -   [Example script for visualizing Sentinel-2 images](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED)
 
@@ -58,3 +66,10 @@
     -   Organization: European Union (?)
     -   What it has:
         -   *Sentinel* imagery products
+
+### Canada Forest LiDAR Data
+
+-   Link: <https://ptompalski.github.io/CanadaForestLidarCoverage/#publication>
+
+    -   What it has:
+        -   Current airborne laser scanning coverage across Canada's forests
