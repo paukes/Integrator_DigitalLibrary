@@ -36,7 +36,7 @@ The general directory organization contains:
     -   Mapping software
     -   Flooding & drainage modelling
 
--   **Other ❓** (🚧 still under construction)
+-   [**Other**](https://github.com/paukes/Integrator_DigitalLibrary/tree/main/other)**❓**
 
     -   Bow River Basin
     -   City of Calgary
