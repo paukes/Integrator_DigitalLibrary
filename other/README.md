@@ -31,3 +31,13 @@
         -   Online, open-access water quality data repository
 
         -   Also contains water quality datasets for areas through-out Canada
+
+## Occupational Health and Safety Code
+
+-   Link: <https://www.alberta.ca/occupational-health-and-safety-code>
+
+    -   Organization: Provincial
+
+    -   What it has:
+
+        -   Technical requirements for health and safety in Alberta
