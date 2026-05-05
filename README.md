@@ -31,6 +31,10 @@ The general directory organization contains:
         -   Google Earth Engine
         -   Copernicus Browser
 
+-   [**Chemistry**](https://github.com/paukes/Integrator_DigitalLibrary/tree/main/chemistry)🧪
+
+    -   CRC Handbook
+
 -   [**Software**](https://github.com/paukes/Integrator_DigitalLibrary/tree/main/software)🖥️
 
     -   Mapping software
