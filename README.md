@@ -25,11 +25,13 @@ The general directory organization contains:
     -   Geographical Layers
         -   Bow River Basin
         -   National Hydro Network
+        -   Canada Geological map Compilation
     -   Remote Sensing Products
         -   Digital Elevation /Terrain Models
         -   Alberta Biodiversity Monitoring Institute
         -   Google Earth Engine
         -   Copernicus Browser
+        -   Canada Forest LiDAR Data
 
 -   [**Chemistry**](https://github.com/paukes/Integrator_DigitalLibrary/tree/main/chemistry)🧪
 
@@ -45,5 +47,4 @@ The general directory organization contains:
     -   Bow River Basin
     -   City of Calgary
     -   Datastream
-    -   Canada Forest LiDAR Data
-    -   Canada Geological map Compilation
+    -   Alberta Occupational Health & Safety Code
